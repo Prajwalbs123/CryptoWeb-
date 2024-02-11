@@ -2,7 +2,7 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react'
 
 const cryptoApiHeaders = {
     'X-RapidAPI-Host': 'coinranking1.p.rapidapi.com',
-    'X-RapidAPI-Key': '5e7a4e9e26msh55ff0e57b92e624p11f876jsn8a183ab1f067'
+    'X-RapidAPI-Key': ''
 }
 
 const baseUrl = 'https://coinranking1.p.rapidapi.com';
